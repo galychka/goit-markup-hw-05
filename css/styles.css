@@ -532,11 +532,11 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
     padding: 0;
 }
 
-.portfolio-item:hover .overlay-text {
+.list-link:hover .overlay-text {
     transform: translateY(0%);
 }
 
-.portfolio-item:focus .overlay-text {
+.list-link:focus .overlay-text {
     transform: translateY(0%);
 }
 
